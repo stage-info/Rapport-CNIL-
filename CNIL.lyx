@@ -1,0 +1,357 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Compte rendu sur la CNIL
+\end_layout
+
+\begin_layout Author
+Etudiant:NGOUO TAPINFO Ulrich Nelson
+\end_layout
+
+\begin_layout Part
+Objectif de la CNIL
+\end_layout
+
+\begin_layout Paragraph
+La commission Nationale de l'informatique et des Libertés de France est
+ une autorité administrative.Elle est chargée de veiller à ce que l'informatique
+ soit au service du cytoyen et qu'elle ne porte atteinte ni à l'identité
+ humaine,ni aux droits de l'Homme,ni à la vie privée,ni aux libertés individuell
+es ou publiques .
+\end_layout
+
+\begin_layout Paragraph
+Publiée en janvier 2013 par le Pew Internet Institute, Le quantified self
+ (mesure de soi) est une nouvel art de vivre en mesurant differents activités
+ liées au mode de vie et ce grace aux capteurs connectés ou des applications
+ mobiles (qui recourent aux capteurs du smartphone) pour mesurer un certain
+ nombre de constantes liées au mode de vie.
+ La santé est un domaine qui évolue au rythme des progrès technologiques
+ et où le pénétration du numerique apporte des changements inédits dans
+ les usages et les comportements .Il existe de nos jours une gamme variée
+ de capteurs et plusieurs dizaines de milliers d'applications qui consernent
+ les thématiques telles que:
+\end_layout
+
+\begin_layout Itemize
+surveiller le nutrition au travers de l'estimation des calories 
+\end_layout
+
+\begin_layout Itemize
+surveiller le poids 
+\end_layout
+
+\begin_layout Itemize
+suivre un facteur de risque en particulier les maladies chroniques comme
+ l'hypertension ou le diabète
+\end_layout
+
+\begin_layout Itemize
+mersure de la qualité du sommeil
+\end_layout
+
+\begin_layout Section
+Comment distinguer la mesure de la quatification
+\end_layout
+
+\begin_layout Standard
+Ces deux notions trop souvent confondues.
+ Le verbe « quantiﬁer » renvoie à l’idée de faire exister sous la forme
+ d’un nombre ce qui, auparavant, était exprimé par des mots.La quantiﬁcation
+ vise ainsi à rendre comparable.
+\end_layout
+
+\begin_layout Section
+Jeu de données et intimité
+\end_layout
+
+\begin_layout Paragraph
+C’est d’ailleurs une difﬁculté à laquelle se trouvent confrontés les régulateurs
+ lorsqu’ils ont à se prononcer sur le statut des données du quantiﬁed self
+ .Compte tenu de la sensibilité des données concernées,une incitation au
+ partage et à la circulation des données est à prendre en considération
+ .Certaines de ces données peuvent paraître « neutres », par exemple lorsque
+ l’on s’intéresse au nombre de pas.
+ Mais par contre D’autres données de bien-être s’apparentent davantage à
+ des données de santé, soit en raison de ce qu’elles peuvent révéler de
+ manière brute (comme une donnée de tension), soit à cause de ce qu’elles
+ pourraient révéler une fois combinées à d’autres ( par exemple l'action
+ combinée donnée de poids à celle de la taille peut permettre d’estimer
+ un risque cardio-vasculaire), peuvent soulever polémique quand t'on sait
+ que certaines données en santé doivent rester strcitement confidentielles.
+\end_layout
+
+\begin_layout Paragraph
+C'est notament le cas qu'à reveler une association américaine de défense
+ de la vie privée, qui declare après une étude
+\begin_inset Quotes erd
+\end_inset
+
+sur 43 applications mobiles de santé et ﬁtness montre ainsi qu’une grande
+ majorité d’entre elles n’offre pas les protections sufﬁsantes pour garantir
+ la conﬁ-dentialité des données de leurs utilisateurs
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Part
+LE QUANTIFIED SELF DANS LES PRATIQUES MEDICALES
+\end_layout
+
+\begin_layout Paragraph
+L’objectif est que demain, les gens disent que c’est eux qui prennent soin
+ de leur santé, avec l’aide de leur médecin et non plus leur médecin seul.Il
+ faut que ces données deviennent utiles pour le corps médical, tout en sachant
+ qu’elles doivent sans doute être filtrées car ce sont des mesures prises
+ chez soi, dès lors que ce sont les utilisateurs eux-mêmes qui s’équipent
+ pour suivre leur état de santé, en dehors du geste médical, on sort ainsi
+ du cadre traditionnel de la pratique médicale.
+\end_layout
+
+\begin_layout Paragraph
+le fait que les patients puissent être équipés de tensiomètres chez eux
+ ne remet pas en cause le rôle du médecin, pas plus que le recours au monde
+ médical dans son ensemble.
+ Le fait que les individus aient aujourd’hui accès chez eux à de nouveaux
+ dis-positifs médicaux contribue à augmenter simplement leur niveau d’exigence.
+ 
+\end_layout
+
+\begin_layout Subsection
+Les capteurs
+\end_layout
+
+\begin_layout Paragraph
+C'est un dispositif transformant une grandeur physique observée en une grandeur
+ utilisable dans un instrument de mesure, un système d'acquisition de données.L’i
+ntégration massive de capteurs de toutes sortes dans des smartphones et
+ tablettes vendus à des millions d’exemplaires a permis en quelques années
+ de réduire drastiquement la taille et le prix de ces composants.
+ chaque génération de smartphones embarque de nouveaux types de capteurs
+ qui,seront demain « détournables » de leur usage premier.
+ A titre d'exemple le Samsung Galaxy S4 contenait, en plus des deux caméras
+ et des micros, 9 capteurs : 
+\end_layout
+
+\begin_layout Itemize
+les classiques gyroscopes: qui mesurent les rotations dans l’espace du téléphone
+)
+\end_layout
+
+\begin_layout Itemize
+l'accéléromètre :qui mesure ces mouvements
+\end_layout
+
+\begin_layout Itemize
+le compas
+\end_layout
+
+\begin_layout Itemize
+un détecteur de proximité
+\end_layout
+
+\begin_layout Itemize
+un détecteur de mouvement,
+\end_layout
+
+\begin_layout Itemize
+un détecteur de lumière 
+\end_layout
+
+\begin_layout Itemize
+un thermomètre qui mesure également l’humidité 
+\end_layout
+
+\begin_layout Itemize
+un baro-mètre
+\end_layout
+
+\begin_layout Standard
+Les capteurs vont donc se multiplier autour de l’individu, mesurant chaque
+ activité et moment de sa journée.
+\end_layout
+
+\begin_layout Subsection
+LES RISQUES DE PIRATAGE DES CAPTEURS
+\end_layout
+
+\begin_layout Paragraph
+Des délinquants informatiques pourraient utiliser les capacités des capteurs
+ pour collecter des informations concernant des personnes à leur insu.Aucune
+ théorie n'est à négliger Quand on sait que des chercheurs ont déjà réussi
+ à deviner grâce à l’analyse de données cérébrales des codes secrets de
+ cartes bancaires ,on peut s’interroger sur ce que ces bataillons de capteurs
+ ambiants et omniprésents pourraient révéler de nous à notre insu.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Un enjeu de standardisation majeur pèse sur l’avenir de l’internet des objets
+ et des communications de machine à machine ;un enjeu spéciﬁque de régulation
+ entoure donc l’internet des objets, et la CNIL n’est pas la seule à s’en
+ saisir .
+ 
+\end_layout
+
+\begin_layout Subsection
+PROBLEMATIE DU QUANTIFIED SELH
+\end_layout
+
+\begin_layout Paragraph
+Il restera tout d’abord toujours une part d’individus n’ayant pas la pratique
+ des ordinateurs, smartphones, tablettes… nécessaires pour accéder à leurs
+ données.
+ De plus, la manipulation et la compréhension de données nécessitent du
+ temps, des compétences, un apprentissage, ainsi que le développement d’interfac
+es et de dispositifs numériques de médiation à la donnée les plus simples
+ possibles.
+ Cette problématique pourrait être particulièrement prégnante dans le domaine
+ du quantiﬁed self
+\end_layout
+
+\begin_layout Part
+MARCHE DE LA SANTÉ SUR MOBILE 
+\end_layout
+
+\begin_layout Paragraph
+D ans une étude publiée en mars 2013, le cabinet Research2guidance avait
+ estimé que le marché de la santé sur mobile devrait représenter 26 milliards
+ de dollars à l’horizon 2017 et concerner près de 1,7 milliards d’utilisateurs
+ .Le développement de ce marché qui, entre 2010 et 2012, est passé de 17
+ 000 à 97 000 applications mobiles de santé disponibles dans les principaux
+ magasins d’applications.
+ Ce marché est caractérisé par 3 grandes étapes de maturité : 
+\end_layout
+
+\begin_layout Itemize
+une phase dite « pilote » :avec l’apparition des premières applications
+ mobiles de santé.
+\end_layout
+
+\begin_layout Itemize
+la création de l’Appstore de Apple en 2008: qui marque une rupture dans
+ le développement du marché et l’entrée dans la phase de commercialisation.
+\end_layout
+
+\begin_layout Itemize
+la phase de « consolidation » : qui devrait notamment se traduire par des
+ applications pouvant s’intégrer directement dans un parcours de soins.
+\end_layout
+
+\begin_layout Enumerate
+TRANSHUMANISME ET QUANTIFIED SELF
+\end_layout
+
+\begin_layout Paragraph
+le monde est déjà engagé dans une logique transhumaniste sans que nous nous
+ en soyons rendus compte.
+ A terme, bien des choses devraient être possibles comme par exemple se
+ faire greffer un cœur artiﬁciel, composé de matériaux plastiques et biologiques
+ pour prolonger l’espérance de vie.
+\end_layout
+
+\begin_layout Enumerate
+REGULATION POUR LA SANTE MOBILE
+\end_layout
+
+\begin_layout Paragraph
+Les obje.ts connectés et les applications mobiles dédiés au bien-être et
+ à la santé font l’objet de régulations spéciﬁques, tant au niveau national
+ qu’inter-national et notamment en matière de protection des données personnelle
+s.Une étude conduite à la demande de la CNIL a conduit sur les modalités
+ de contrôle des fabricants, les normes de sécurité et de qualité applicables
+ , les exigences en matière de notice d’information, en mettant l’accent
+ sur les règles de protection et de sécurisation des données personnelles
+ et sur les droits des personnes.
+\end_layout
+
+\begin_layout Paragraph
+En résumé, le quantiﬁed self, c’est la volonté de chacun de capter des données
+ issues ou au plus près de son corps, pour une meilleure connaissance de
+ soi et ce, généralement, sans médiation médicale.
+ Il s’agit de données d’un genre ou d’un usage nouveau, qui, pour certaines
+ , étaient traditionnellement recueillies et analysées dans le cadre du
+ fameux colloque singulier patient-médecin.
+ Mais c’est aussi, paradoxalement, une pratique communautaire de partage
+ de ces données, intimes.
+\end_layout
+
+\begin_layout Paragraph
+De la même manière, la CNIL a toujours considéré que les données personnelles
+ de santé ne pouvaient être utilisées à des ﬁns commerciales même si les
+ textes ne le consacrent explicitement que pour certaines catégories de
+ données de santé
+\end_layout
+
+\end_body
+\end_document
